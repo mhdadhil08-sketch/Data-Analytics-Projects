@@ -5,7 +5,7 @@ Welcome to my Data Analytics Portfolio.
 ## Projects
 
 ### 1. Crime Dashboard
-Tools Used: PowerBI  
+Tools Used: Power BI  
 - Analyzed crime trends and patterns
 - Built interactive dashboard for visualization
 - Identified high-crime areas and categories
@@ -23,7 +23,6 @@ Tools Used: Tableau
 - Identified peak booking times and trip patterns
 
 ## Skills
-- SQL
 - Excel
 - Tableau
 - Power BI
